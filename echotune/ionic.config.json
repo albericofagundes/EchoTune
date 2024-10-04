@@ -1,0 +1,7 @@
+{
+  "name": "echotune",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
